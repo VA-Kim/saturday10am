@@ -1,0 +1,14 @@
+{
+  "name": "saturday10am",
+  "version": "1.0.0",
+  "description": "board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vakim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
